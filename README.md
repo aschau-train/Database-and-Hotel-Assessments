@@ -4,4 +4,4 @@ are included in this classroom repository.
 
 ## Submit each assessment in a separate folder within the report
 * /DatabaseDesign
-* /Hotel
+* /HotelDatabase
